@@ -1,3 +1,7 @@
 body {
-    background: greenyellow;
+    background: yellow;
+}
+h1 {
+    font-size: 125px;
+    font-weight: bolder;
 }
